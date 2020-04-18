@@ -1,3 +1,4 @@
 # Chatroom
-using Node.js, Express,  Socket.io
+Realtime chat apps using Node.js, Express, Socket.io
+
 
